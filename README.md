@@ -1,4 +1,4 @@
-# NullAndVoidVibes ? Cynthia's Gauntlet
+# NullAndVoidVibes : Cynthia's Gauntlet
 
 This entry uses a legal 40-point team with the simulator's built-in battle policy.
 
@@ -14,6 +14,3 @@ Slaking leads with bulk and Normal, Ground, Ice, and Electric coverage. Starmie 
 
 This roster won 221 of 300 public practice battles (73.7%) across three seed batches. The official hidden variants were unavailable for evaluation.
 
-## Contributions and credits
-
-Sheen Gauhar directed team selection and testing. Codex assisted with candidate analysis, simulator runs, and packaging. Battle mechanics and roster data are from the Cynthia's Gauntlet organizers and their published data package.
