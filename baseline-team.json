@@ -1,0 +1,56 @@
+[
+  {
+    "species": "lucario",
+    "moves": [
+      "aura-sphere",
+      "dragon-pulse",
+      "shadow-claw",
+      "extreme-speed"
+    ]
+  },
+  {
+    "species": "medicham",
+    "moves": [
+      "brick-break",
+      "strength",
+      "swift",
+      "vacuum-wave"
+    ]
+  },
+  {
+    "species": "quagsire",
+    "moves": [
+      "aqua-tail",
+      "earthquake",
+      "stone-edge",
+      "surf"
+    ]
+  },
+  {
+    "species": "bibarel",
+    "moves": [
+      "aqua-tail",
+      "cut",
+      "shock-wave",
+      "surf"
+    ]
+  },
+  {
+    "species": "staraptor",
+    "moves": [
+      "aerial-ace",
+      "air-cutter",
+      "u-turn",
+      "wing-attack"
+    ]
+  },
+  {
+    "species": "pikachu",
+    "moves": [
+      "brick-break",
+      "quick-attack",
+      "shock-wave",
+      "slam"
+    ]
+  }
+]
