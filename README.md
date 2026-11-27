@@ -14,3 +14,12 @@ Slaking leads with bulk and Normal, Ground, Ice, and Electric coverage. Starmie 
 
 This roster won 221 of 300 public practice battles (73.7%) across three seed batches. The official hidden variants were unavailable for evaluation.
 
+## Baseline
+
+`baseline-team.json` is the original 40-point, Lucario-led team used for comparison. It won 0 of 250 public practice battles with the built-in policy. To reproduce the baseline setup, load this file in the simulator using the same steps as for `team.json`.
+
+## Credits
+
+- Official Cynthia's Gauntlet simulator and published battle data (Custodia × WiTS).
+- PokeAPI data, as credited in the organizers’ data package.
+- Sheen Gauhar directed team selection and testing. Codex assisted with analysis and simulator testing.
