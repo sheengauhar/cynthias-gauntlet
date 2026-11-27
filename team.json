@@ -1,0 +1,56 @@
+[
+  {
+    "species": "slaking",
+    "moves": [
+      "strength",
+      "earthquake",
+      "ice-punch",
+      "thunder-punch"
+    ]
+  },
+  {
+    "species": "starmie",
+    "moves": [
+      "surf",
+      "ice-beam",
+      "thunderbolt",
+      "psychic"
+    ]
+  },
+  {
+    "species": "weavile",
+    "moves": [
+      "ice-punch",
+      "night-slash",
+      "brick-break",
+      "quick-attack"
+    ]
+  },
+  {
+    "species": "lombre",
+    "moves": [
+      "energy-ball",
+      "surf",
+      "ice-beam",
+      "seed-bomb"
+    ]
+  },
+  {
+    "species": "starly",
+    "moves": [
+      "aerial-ace",
+      "quick-attack",
+      "u-turn",
+      "heat-wave"
+    ]
+  },
+  {
+    "species": "swinub",
+    "moves": [
+      "earthquake",
+      "ice-shard",
+      "rock-slide",
+      "body-slam"
+    ]
+  }
+]
